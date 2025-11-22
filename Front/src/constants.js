@@ -1,0 +1,5 @@
+export const APP_NAME = 'Orange Mécanique Autos'
+export const SERVEUR_API = 'https://site-orangemecanique-back.onrender.com'
+export const SERVEUR_API2 = 'http://192.168.1.132:40175'
+export const API_GET = SERVEUR_API + '/reservations'
+export const API_POST = SERVEUR_API + '/reservation'
