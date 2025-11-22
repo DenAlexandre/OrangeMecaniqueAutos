@@ -9,7 +9,7 @@ export default defineConfig({
   server: {
     port: port, // ou n'importe quel port
     host: '0.0.0.0', // pour accéder depuis d'autres machines
-    allowedHosts: 'site-orangemecanique-front.onrender.com'
+    allowedHosts: 'orangemecaniqueautos.onrender.com'
   },
 
 })
